@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\UdemyRealWorldUnitTest.WEB.props" />
+</Project>
